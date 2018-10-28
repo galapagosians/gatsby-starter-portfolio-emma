@@ -57,4 +57,7 @@ public/
 .gatsby-context.js
 
 # Bundle stats
-bundle-stats.json
+bundle-stats.json.cache
+.cache/
+.cache/*
+.git/*
